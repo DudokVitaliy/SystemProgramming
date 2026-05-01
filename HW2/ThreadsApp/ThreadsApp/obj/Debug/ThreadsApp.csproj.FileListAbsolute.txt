@@ -1,0 +1,10 @@
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW2\ThreadsApp\ThreadsApp\bin\Debug\ThreadsApp.exe.config
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW2\ThreadsApp\ThreadsApp\bin\Debug\ThreadsApp.exe
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW2\ThreadsApp\ThreadsApp\bin\Debug\ThreadsApp.pdb
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW2\ThreadsApp\ThreadsApp\obj\Debug\ThreadsApp.csproj.AssemblyReference.cache
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW2\ThreadsApp\ThreadsApp\obj\Debug\ThreadsApp.Form1.resources
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW2\ThreadsApp\ThreadsApp\obj\Debug\ThreadsApp.Properties.Resources.resources
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW2\ThreadsApp\ThreadsApp\obj\Debug\ThreadsApp.csproj.GenerateResource.cache
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW2\ThreadsApp\ThreadsApp\obj\Debug\ThreadsApp.csproj.CoreCompileInputs.cache
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW2\ThreadsApp\ThreadsApp\obj\Debug\ThreadsApp.exe
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW2\ThreadsApp\ThreadsApp\obj\Debug\ThreadsApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW3\FibonacciSync\FibonacciSync\bin\Debug\FibonacciSync.exe.config
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW3\FibonacciSync\FibonacciSync\bin\Debug\FibonacciSync.exe
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW3\FibonacciSync\FibonacciSync\bin\Debug\FibonacciSync.pdb
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW3\FibonacciSync\FibonacciSync\obj\Debug\FibonacciSync.csproj.AssemblyReference.cache
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW3\FibonacciSync\FibonacciSync\obj\Debug\FibonacciSync.csproj.CoreCompileInputs.cache
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW3\FibonacciSync\FibonacciSync\obj\Debug\FibonacciSync.exe
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW3\FibonacciSync\FibonacciSync\obj\Debug\FibonacciSync.pdb

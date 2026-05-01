@@ -1,0 +1,10 @@
+C:\Users\TechnoRoom\Desktop\ReactNative\ProcessManager\ProcessManager\bin\Debug\ProcessManager.exe.config
+C:\Users\TechnoRoom\Desktop\ReactNative\ProcessManager\ProcessManager\bin\Debug\ProcessManager.exe
+C:\Users\TechnoRoom\Desktop\ReactNative\ProcessManager\ProcessManager\bin\Debug\ProcessManager.pdb
+C:\Users\TechnoRoom\Desktop\ReactNative\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csproj.AssemblyReference.cache
+C:\Users\TechnoRoom\Desktop\ReactNative\ProcessManager\ProcessManager\obj\Debug\ProcessManager.Form1.resources
+C:\Users\TechnoRoom\Desktop\ReactNative\ProcessManager\ProcessManager\obj\Debug\ProcessManager.Properties.Resources.resources
+C:\Users\TechnoRoom\Desktop\ReactNative\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csproj.GenerateResource.cache
+C:\Users\TechnoRoom\Desktop\ReactNative\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csproj.CoreCompileInputs.cache
+C:\Users\TechnoRoom\Desktop\ReactNative\ProcessManager\ProcessManager\obj\Debug\ProcessManager.exe
+C:\Users\TechnoRoom\Desktop\ReactNative\ProcessManager\ProcessManager\obj\Debug\ProcessManager.pdb

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TechnoRoom\\Desktop\\\u0410\u0440\u0445\u0456\u0432\\SystemProgramming\\HW3\\FibonacciSync\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D493007-00E0-4AAE-B396-6851B1251FE2}|FibonacciSync\\FibonacciSync.csproj|c:\\users\\technoroom\\desktop\\\u0430\u0440\u0445\u0456\u0432\\systemprogramming\\hw3\\fibonaccisync\\fibonaccisync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D493007-00E0-4AAE-B396-6851B1251FE2}|FibonacciSync\\FibonacciSync.csproj|solutionrelative:fibonaccisync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D493007-00E0-4AAE-B396-6851B1251FE2}|FibonacciSync\\FibonacciSync.csproj|c:\\users\\technoroom\\desktop\\\u0430\u0440\u0445\u0456\u0432\\systemprogramming\\hw3\\fibonaccisync\\fibonaccisync\\fibonaccicounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D493007-00E0-4AAE-B396-6851B1251FE2}|FibonacciSync\\FibonacciSync.csproj|solutionrelative:fibonaccisync\\fibonaccicounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FibonacciCounter.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoRoom\\Desktop\\\u0410\u0440\u0445\u0456\u0432\\SystemProgramming\\HW3\\FibonacciSync\\FibonacciSync\\FibonacciCounter.cs",
+              "RelativeDocumentMoniker": "FibonacciSync\\FibonacciCounter.cs",
+              "ToolTip": "C:\\Users\\TechnoRoom\\Desktop\\\u0410\u0440\u0445\u0456\u0432\\SystemProgramming\\HW3\\FibonacciSync\\FibonacciSync\\FibonacciCounter.cs*",
+              "RelativeToolTip": "FibonacciSync\\FibonacciCounter.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T19:47:03.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoRoom\\Desktop\\\u0410\u0440\u0445\u0456\u0432\\SystemProgramming\\HW3\\FibonacciSync\\FibonacciSync\\Program.cs",
+              "RelativeDocumentMoniker": "FibonacciSync\\Program.cs",
+              "ToolTip": "C:\\Users\\TechnoRoom\\Desktop\\\u0410\u0440\u0445\u0456\u0432\\SystemProgramming\\HW3\\FibonacciSync\\FibonacciSync\\Program.cs*",
+              "RelativeToolTip": "FibonacciSync\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T19:46:35.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

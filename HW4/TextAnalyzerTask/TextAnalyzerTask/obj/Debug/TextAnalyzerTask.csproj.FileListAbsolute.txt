@@ -1,0 +1,10 @@
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW4\TextAnalyzerTask\TextAnalyzerTask\bin\Debug\TextAnalyzerTask.exe.config
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW4\TextAnalyzerTask\TextAnalyzerTask\bin\Debug\TextAnalyzerTask.exe
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW4\TextAnalyzerTask\TextAnalyzerTask\bin\Debug\TextAnalyzerTask.pdb
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW4\TextAnalyzerTask\TextAnalyzerTask\obj\Debug\TextAnalyzerTask.csproj.AssemblyReference.cache
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW4\TextAnalyzerTask\TextAnalyzerTask\obj\Debug\TextAnalyzerTask.Form1.resources
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW4\TextAnalyzerTask\TextAnalyzerTask\obj\Debug\TextAnalyzerTask.Properties.Resources.resources
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW4\TextAnalyzerTask\TextAnalyzerTask\obj\Debug\TextAnalyzerTask.csproj.GenerateResource.cache
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW4\TextAnalyzerTask\TextAnalyzerTask\obj\Debug\TextAnalyzerTask.csproj.CoreCompileInputs.cache
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW4\TextAnalyzerTask\TextAnalyzerTask\obj\Debug\TextAnalyzerTask.exe
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW4\TextAnalyzerTask\TextAnalyzerTask\obj\Debug\TextAnalyzerTask.pdb
