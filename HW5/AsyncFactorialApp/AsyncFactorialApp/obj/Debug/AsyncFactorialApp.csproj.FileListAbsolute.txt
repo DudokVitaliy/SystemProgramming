@@ -1,0 +1,11 @@
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW5\AsyncFactorialApp\AsyncFactorialApp\bin\Debug\AsyncFactorialApp.exe.config
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW5\AsyncFactorialApp\AsyncFactorialApp\bin\Debug\AsyncFactorialApp.exe
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW5\AsyncFactorialApp\AsyncFactorialApp\bin\Debug\AsyncFactorialApp.pdb
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW5\AsyncFactorialApp\AsyncFactorialApp\obj\Debug\AsyncFactorialApp.csproj.AssemblyReference.cache
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW5\AsyncFactorialApp\AsyncFactorialApp\obj\Debug\AsyncFactorialApp.Form1.resources
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW5\AsyncFactorialApp\AsyncFactorialApp\obj\Debug\AsyncFactorialApp.Properties.Resources.resources
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW5\AsyncFactorialApp\AsyncFactorialApp\obj\Debug\AsyncFactorialApp.csproj.GenerateResource.cache
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW5\AsyncFactorialApp\AsyncFactorialApp\obj\Debug\AsyncFactorialApp.csproj.CoreCompileInputs.cache
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW5\AsyncFactorialApp\AsyncFactorialApp\obj\Debug\AsyncFactorialApp.exe
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW5\AsyncFactorialApp\AsyncFactorialApp\obj\Debug\AsyncFactorialApp.pdb
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW5\AsyncFactorialApp\AsyncFactorialApp\obj\Debug\AsyncFactorialApp.exe.config
