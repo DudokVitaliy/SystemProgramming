@@ -1,0 +1,7 @@
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW8\ParallelMathApp\ParallelMathApp\bin\Debug\ParallelMathApp.exe.config
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW8\ParallelMathApp\ParallelMathApp\bin\Debug\ParallelMathApp.exe
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW8\ParallelMathApp\ParallelMathApp\bin\Debug\ParallelMathApp.pdb
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW8\ParallelMathApp\ParallelMathApp\obj\Debug\ParallelMathApp.csproj.AssemblyReference.cache
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW8\ParallelMathApp\ParallelMathApp\obj\Debug\ParallelMathApp.csproj.CoreCompileInputs.cache
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW8\ParallelMathApp\ParallelMathApp\obj\Debug\ParallelMathApp.exe
+C:\Users\TechnoRoom\Desktop\Архів\SystemProgramming\HW8\ParallelMathApp\ParallelMathApp\obj\Debug\ParallelMathApp.pdb
