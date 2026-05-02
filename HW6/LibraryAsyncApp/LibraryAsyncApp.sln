@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryAsyncApp", "LibraryAsyncApp\LibraryAsyncApp.csproj", "{1A336FDE-C613-4E31-98A0-0867B2547FAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A336FDE-C613-4E31-98A0-0867B2547FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A336FDE-C613-4E31-98A0-0867B2547FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A336FDE-C613-4E31-98A0-0867B2547FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A336FDE-C613-4E31-98A0-0867B2547FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27EAF535-085E-4130-8E88-BA0D8307B8B7}
+	EndGlobalSection
+EndGlobal

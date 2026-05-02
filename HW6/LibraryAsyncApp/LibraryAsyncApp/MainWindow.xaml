@@ -1,0 +1,24 @@
+﻿<Window x:Class="LibraryAsyncApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Library Async App" Height="400" Width="400">
+
+    <StackPanel Margin="10">
+
+        <ComboBox x:Name="comboAuthors"
+                  SelectionChanged="comboAuthors_SelectionChanged"
+                  DisplayMemberPath="Name"
+                  Height="30"/>
+
+        <TextBox x:Name="textSearch"
+                 Margin="0,10,0,10"
+                 TextChanged="textSearch_TextChanged"
+                 Height="30"/>
+
+        <ListBox x:Name="listBooks"
+                 DisplayMemberPath="Title"
+                 Height="300"/>
+
+    </StackPanel>
+
+</Window>
