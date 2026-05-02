@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TechnoRoom\\Desktop\\\u0410\u0440\u0445\u0456\u0432\\SystemProgramming\\HW7\\ResumeAnalyzerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD6BA05-40F6-4C10-A7BA-EF82AA9F569E}|ResumeAnalyzerApp\\ResumeAnalyzerApp.csproj|c:\\users\\technoroom\\desktop\\\u0430\u0440\u0445\u0456\u0432\\systemprogramming\\hw7\\resumeanalyzerapp\\resumeanalyzerapp\\services\\resumeanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD6BA05-40F6-4C10-A7BA-EF82AA9F569E}|ResumeAnalyzerApp\\ResumeAnalyzerApp.csproj|solutionrelative:resumeanalyzerapp\\services\\resumeanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD6BA05-40F6-4C10-A7BA-EF82AA9F569E}|ResumeAnalyzerApp\\ResumeAnalyzerApp.csproj|c:\\users\\technoroom\\desktop\\\u0430\u0440\u0445\u0456\u0432\\systemprogramming\\hw7\\resumeanalyzerapp\\resumeanalyzerapp\\resumeanalyzerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDD6BA05-40F6-4C10-A7BA-EF82AA9F569E}|ResumeAnalyzerApp\\ResumeAnalyzerApp.csproj|solutionrelative:resumeanalyzerapp\\resumeanalyzerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD6BA05-40F6-4C10-A7BA-EF82AA9F569E}|ResumeAnalyzerApp\\ResumeAnalyzerApp.csproj|c:\\users\\technoroom\\desktop\\\u0430\u0440\u0445\u0456\u0432\\systemprogramming\\hw7\\resumeanalyzerapp\\resumeanalyzerapp\\services\\resumeparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD6BA05-40F6-4C10-A7BA-EF82AA9F569E}|ResumeAnalyzerApp\\ResumeAnalyzerApp.csproj|solutionrelative:resumeanalyzerapp\\services\\resumeparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD6BA05-40F6-4C10-A7BA-EF82AA9F569E}|ResumeAnalyzerApp\\ResumeAnalyzerApp.csproj|c:\\users\\technoroom\\desktop\\\u0430\u0440\u0445\u0456\u0432\\systemprogramming\\hw7\\resumeanalyzerapp\\resumeanalyzerapp\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD6BA05-40F6-4C10-A7BA-EF82AA9F569E}|ResumeAnalyzerApp\\ResumeAnalyzerApp.csproj|solutionrelative:resumeanalyzerapp\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResumeAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoRoom\\Desktop\\\u0410\u0440\u0445\u0456\u0432\\SystemProgramming\\HW7\\ResumeAnalyzerApp\\ResumeAnalyzerApp\\Services\\ResumeAnalyzer.cs",
+              "RelativeDocumentMoniker": "ResumeAnalyzerApp\\Services\\ResumeAnalyzer.cs",
+              "ToolTip": "C:\\Users\\TechnoRoom\\Desktop\\\u0410\u0440\u0445\u0456\u0432\\SystemProgramming\\HW7\\ResumeAnalyzerApp\\ResumeAnalyzerApp\\Services\\ResumeAnalyzer.cs",
+              "RelativeToolTip": "ResumeAnalyzerApp\\Services\\ResumeAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T19:19:07.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResumeParser.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoRoom\\Desktop\\\u0410\u0440\u0445\u0456\u0432\\SystemProgramming\\HW7\\ResumeAnalyzerApp\\ResumeAnalyzerApp\\Services\\ResumeParser.cs",
+              "RelativeDocumentMoniker": "ResumeAnalyzerApp\\Services\\ResumeParser.cs",
+              "ToolTip": "C:\\Users\\TechnoRoom\\Desktop\\\u0410\u0440\u0445\u0456\u0432\\SystemProgramming\\HW7\\ResumeAnalyzerApp\\ResumeAnalyzerApp\\Services\\ResumeParser.cs",
+              "RelativeToolTip": "ResumeAnalyzerApp\\Services\\ResumeParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T19:18:42.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoRoom\\Desktop\\\u0410\u0440\u0445\u0456\u0432\\SystemProgramming\\HW7\\ResumeAnalyzerApp\\ResumeAnalyzerApp\\Models\\Resume.cs",
+              "RelativeDocumentMoniker": "ResumeAnalyzerApp\\Models\\Resume.cs",
+              "ToolTip": "C:\\Users\\TechnoRoom\\Desktop\\\u0410\u0440\u0445\u0456\u0432\\SystemProgramming\\HW7\\ResumeAnalyzerApp\\ResumeAnalyzerApp\\Models\\Resume.cs",
+              "RelativeToolTip": "ResumeAnalyzerApp\\Models\\Resume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T19:18:07.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResumeAnalyzerApp.csproj",
+              "DocumentMoniker": "C:\\Users\\TechnoRoom\\Desktop\\\u0410\u0440\u0445\u0456\u0432\\SystemProgramming\\HW7\\ResumeAnalyzerApp\\ResumeAnalyzerApp\\ResumeAnalyzerApp.csproj",
+              "RelativeDocumentMoniker": "ResumeAnalyzerApp\\ResumeAnalyzerApp.csproj",
+              "ToolTip": "C:\\Users\\TechnoRoom\\Desktop\\\u0410\u0440\u0445\u0456\u0432\\SystemProgramming\\HW7\\ResumeAnalyzerApp\\ResumeAnalyzerApp\\ResumeAnalyzerApp.csproj",
+              "RelativeToolTip": "ResumeAnalyzerApp\\ResumeAnalyzerApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-02T19:17:53.426Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

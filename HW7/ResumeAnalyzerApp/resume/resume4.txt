@@ -1,0 +1,5 @@
+Name: Maria Bondar
+City: Odesa
+Experience: 1
+SalaryMin: 600
+SalaryMax: 1000

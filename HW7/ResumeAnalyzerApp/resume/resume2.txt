@@ -1,0 +1,5 @@
+Name: Olha Kovalenko
+City: Lviv
+Experience: 2
+SalaryMin: 800
+SalaryMax: 1500

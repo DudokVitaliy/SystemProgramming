@@ -1,0 +1,5 @@
+Name: Dmytro Ivanov
+City: Lviv
+Experience: 6
+SalaryMin: 1500
+SalaryMax: 2800

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NeJ9mrkF6aU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TechnoRoom\\Desktop\\Архів\\SystemProgramming\\HW7\\ResumeAnalyzerApp\\ResumeAnalyzerApp\\ResumeAnalyzerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TechnoRoom\\.nuget\\packages\\microsoft-windowsapicodepack-core\\1.1.5\\microsoft-windowsapicodepack-core.1.1.5.nupkg.sha512",
+    "C:\\Users\\TechnoRoom\\.nuget\\packages\\microsoft-windowsapicodepack-shell\\1.1.5\\microsoft-windowsapicodepack-shell.1.1.5.nupkg.sha512",
+    "C:\\Users\\TechnoRoom\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.13\\microsoft.windowsdesktop.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\TechnoRoom\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.13\\microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\TechnoRoom\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.13\\microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\TechnoRoom\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.13\\microsoft.netcore.app.host.win-x64.9.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

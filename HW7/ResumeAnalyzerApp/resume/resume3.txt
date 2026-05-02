@@ -1,0 +1,5 @@
+Name: Andrii Shevchenko
+City: Kyiv
+Experience: 8
+SalaryMin: 2000
+SalaryMax: 3500

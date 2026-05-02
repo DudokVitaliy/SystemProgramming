@@ -1,0 +1,5 @@
+Name: Ivan Petrenko
+City: Kyiv
+Experience: 5
+SalaryMin: 1200
+SalaryMax: 2000
